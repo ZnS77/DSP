@@ -1,0 +1,2 @@
+matplotlib      3.3.2
+PyAudio         0.2.11
